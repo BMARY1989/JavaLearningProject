@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Innitial commit-added the project structure">
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/variablesprogramme/VariablesandComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -35,7 +45,7 @@
     "onboarding.tips.debug.path": "/Users/user/Desktop/JavaLearningProject/src/main/java/md/teckwillacademy/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VariablesandComments">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Main" />
       <module name="JavaLearningProject" />
@@ -49,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariablesandComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.variablesprogramme.VariablesandComments" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.teckwillacademy.variablesprogramme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariablesandComments" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -64,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1694508466333</updated>
     </task>
+    <task id="LOCAL-00001" summary="Innitial commit-added the project structure">
+      <option name="closed" value="true" />
+      <created>1694509707610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694509707610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Innitial commit-added the project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Innitial commit-added the project structure" />
   </component>
 </project>
