@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Adeed the programmer related to Variables and Comments">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/ManageAutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/car.java" afterDir="false" />
+    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Defined the Git Workflor for future development strategy">
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Accessmodifier/ChisinauEvidenceCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Accessmodifier/peopleevidence/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TA-2__autoservicetask",
+    "git-widget-placeholder": "TA-3__Variables__And__Access__Modifiers",
     "onboarding.tips.debug.path": "/Users/user/Desktop/JavaLearningProject/src/main/java/md/teckwillacademy/Main.java"
   }
 }]]></component>
@@ -56,7 +52,20 @@
       <recent name="md.teckwillacademy.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManageAutoService">
+  <component name="RunManager" selected="Application.ChisinauEvidenceCatalog">
+    <configuration name="ChisinauEvidenceCatalog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Accessmodifier.ChisinauEvidenceCatalog" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.teckwillacademy.Accessmodifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Main" />
       <module name="JavaLearningProject" />
@@ -111,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChisinauEvidenceCatalog" />
         <item itemvalue="Application.ManageAutoService" />
         <item itemvalue="Application.ManageAutoservice" />
         <item itemvalue="Application.VariablesandComments" />
@@ -143,12 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694515354758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Defined the Git Workflor for future development strategy">
+      <option name="closed" value="true" />
+      <created>1695401338482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695401338482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Innitial commit-added the project structure" />
     <MESSAGE value="Adeed the programmer related to Variables and Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adeed the programmer related to Variables and Comments" />
+    <MESSAGE value="Defined the Git Workflor for future development strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defined the Git Workflor for future development strategy" />
   </component>
 </project>
