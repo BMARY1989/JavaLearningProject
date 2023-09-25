@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Defined the Git Workflor for future development strategy">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Accessmodifier/ChisinauEvidenceCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/Accessmodifier/peopleevidence/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/AritmeticOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/AssignmentOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/ComparisonOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/DayOfTheWeekService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/GradeSystemServise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/IncrementDecrementExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandciclicfunctions/PrintNumberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TA-3__Variables__And__Access__Modifiers",
+    "git-widget-placeholder": "TA__4__Operations__And__defined__Functions",
     "onboarding.tips.debug.path": "/Users/user/Desktop/JavaLearningProject/src/main/java/md/teckwillacademy/Main.java"
   }
 }]]></component>
@@ -52,13 +57,13 @@
       <recent name="md.teckwillacademy.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChisinauEvidenceCatalog">
-    <configuration name="ChisinauEvidenceCatalog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Accessmodifier.ChisinauEvidenceCatalog" />
+  <component name="RunManager" selected="Application.ComparisonOperationsExample">
+    <configuration name="AritmeticOperationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.AritmeticOperationExample" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.Accessmodifier.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Main" />
+    <configuration name="AssignmentOperationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.AssignmentOperationsExample" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.classesandobjects.ManageAutoService" />
+    <configuration name="ComparisonOperationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.ComparisonOperationsExample" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.classesandobjects.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageAutoservice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.classesandobjects.ManageAutoservice" />
+    <configuration name="IncrementDecrementExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.IncrementDecrementExemple" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.classesandobjects.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesandComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.variablesprogramme.VariablesandComments" />
+    <configuration name="PrintNumberService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.PrintNumberService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.variablesprogramme.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChisinauEvidenceCatalog" />
-        <item itemvalue="Application.ManageAutoService" />
-        <item itemvalue="Application.ManageAutoservice" />
-        <item itemvalue="Application.VariablesandComments" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ComparisonOperationsExample" />
+        <item itemvalue="Application.AssignmentOperationsExample" />
+        <item itemvalue="Application.AritmeticOperationExample" />
+        <item itemvalue="Application.IncrementDecrementExemple" />
+        <item itemvalue="Application.PrintNumberService" />
       </list>
     </recent_temporary>
   </component>
