@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Added the Implementation of Java  Operation,Cyclie Functions and Control Stretures">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/methodstask/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/methodstask/DataGeneratorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/methodstask/ExecutionaService.java" afterDir="false" />
+    <list default="true" id="d0fa70ef-1732-4b48-ab0a-7f72f577e198" name="Changes" comment="Add the changes that involves Different Methods,Overloading">
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/zooclubservice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/zooclubservice/AnimalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/zooclubservice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/zooclubservice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/zooclubservice/ZooService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TA__5__Methods__Task",
+    "git-widget-placeholder": "TA-6__POO__ZOO__CLUB",
     "onboarding.tips.debug.path": "/Users/user/Desktop/JavaLearningProject/src/main/java/md/teckwillacademy/Main.java"
   }
 }]]></component>
@@ -53,7 +56,7 @@
       <recent name="md.teckwillacademy.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExecutionaService">
+  <component name="RunManager" selected="Application.ZooService">
     <configuration name="AritmeticOperationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.AritmeticOperationExample" />
       <module name="JavaLearningProject" />
@@ -106,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementDecrementExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandciclicfunctions.IncrementDecrementExemple" />
+    <configuration name="ZooService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.zooclubservice.ZooService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.teckwillacademy.zooclubservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooService" />
         <item itemvalue="Application.ExecutionaService" />
         <item itemvalue="Application.ComparisonOperationsExample" />
         <item itemvalue="Application.AssignmentOperationsExample" />
         <item itemvalue="Application.AritmeticOperationExample" />
-        <item itemvalue="Application.IncrementDecrementExemple" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695587095254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add the changes that involves Different Methods,Overloading">
+      <option name="closed" value="true" />
+      <created>1695927996720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695927996721</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +189,7 @@
     <MESSAGE value="Adeed the programmer related to Variables and Comments" />
     <MESSAGE value="Defined the Git Workflor for future development strategy" />
     <MESSAGE value="Added the Implementation of Java  Operation,Cyclie Functions and Control Stretures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the Implementation of Java  Operation,Cyclie Functions and Control Stretures" />
+    <MESSAGE value="Add the changes that involves Different Methods,Overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the changes that involves Different Methods,Overloading" />
   </component>
 </project>
